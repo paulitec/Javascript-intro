@@ -1,4 +1,4 @@
 # Javascript-Intro
 Introducing myself using javascript
 
-Github Page link: https://paulitec.github.io/Javascript-intro1
+Github Page link: https://paulitec.github.io/Javascript-intro
