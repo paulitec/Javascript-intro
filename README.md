@@ -1,2 +1,3 @@
 # Javascript-intro1
-I printed some info about me using Javasript
+Introducing myself using javascript
+Github Page link: https://paulitec.github.io/Javascript-intro1/
